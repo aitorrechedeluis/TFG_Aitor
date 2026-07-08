@@ -12,7 +12,7 @@ Run main.py and images will be automatically generated. Program is set to genera
 
 | Parameter | Description | Default |
 | :--- | :--- | :--- |
-| `--input <spectra>` | Change spectra in order to generate other BTS images. | — |
+| `--input <spectra>` | Change spectra in order to generate other BTS images. | `Brain_positive.imzML` |
 | `--clusters <number>` | Change number in order to use an specific number of clusters to remove background. | `3` |
 | `--threshold <value>` | Change value to use another threshold value when binning the spectra. | `50000` |
 
