@@ -2,9 +2,9 @@
 
 This repository contains the code to compute cell lipotypes localization in brain tissues by mass spectrometry. You will find both "lineal_model" and "neura_model" programs, each of it containing all the code needed to run.
 
-[!WARNING]
+> [!WARNING]
 
-Data from MALDI-MSI is not available.
+> Data from MALDI-MSI is not available.
 
 ## Usage
 
