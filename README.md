@@ -7,7 +7,7 @@ This repository contains the code to compute cell lipotypes localization in brai
 
 ## Usage
 
-#### Lineal model:
+#### Linear model:
 Run main.py and images will be automatically generated. Program is set to generate "Brain_positive.imzML" imagenes. Other options:
 
     - "--input spectra": Change spectra in order to generate other BTS images.
